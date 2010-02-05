@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>choco</string>
+	<string>Goblin Town</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -30,12 +30,10 @@
 			<string>comment</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
-				<string>#240011</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#750134</string>
+				<string>#425355</string>
 			</dict>
 		</dict>
 		<dict>
@@ -271,7 +269,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#C19227</string>
+				<string>#E5AC1E</string>
 			</dict>
 		</dict>
 		<dict>
