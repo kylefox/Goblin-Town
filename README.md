@@ -7,6 +7,11 @@ Here's what it looks like:
 
 Ruby code is shown, but I also use it with Python, Django, JavaScript, HTML & CSS, haml, etc.  Most languages seem to look good.
 
+Download
+--------
+
+If you don't want to clone this repository you can [download the zip file](http://dl.dropbox.com/u/780754/Goblin-Town.zip) instead.
+
 Font
 ----
 
