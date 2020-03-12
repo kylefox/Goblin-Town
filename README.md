@@ -3,7 +3,7 @@ Goblin Town - a TextMate theme
 
 Here's what it looks like:
 
-![Goblin Town](http://dl.dropbox.com/u/780754/screenshot.png "Goblin Town")
+![screenshot](https://user-images.githubusercontent.com/37838/76475273-f184b480-63c3-11ea-81fd-0c3fcc7d5454.png)
 
 Ruby code is shown, but I also use it with Python, Django, JavaScript, HTML & CSS, haml, etc.  Most languages seem to look good.
 
